@@ -1,0 +1,1 @@
+A project in the Udacity React Nanodegree, displaying a list of users alongside their favorite movies
